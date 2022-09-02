@@ -11,6 +11,7 @@ Global class ApexFuture
             ins.Annual_Income__c = 5000000;
             ins.Email_ID__c = 'mank'+cont+'@gmail.com';
             ins.Mobile_Number__c = '9988989898';
+            //please check
             
             lstIns.add(ins);
         }
